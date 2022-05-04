@@ -9,4 +9,5 @@ function vypocty(cislo1 = 4,cislo2 = 2) {
 }
 console.log(vypocty());
 
+
 console.log(vypocty(10,5));
